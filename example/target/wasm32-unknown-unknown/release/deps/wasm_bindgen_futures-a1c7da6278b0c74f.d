@@ -1,0 +1,9 @@
+/Users/pepijnvanderklei/Desktop/Code/lollipop/example/target/wasm32-unknown-unknown/release/deps/wasm_bindgen_futures-a1c7da6278b0c74f.rmeta: /Users/pepijnvanderklei/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.34/src/lib.rs /Users/pepijnvanderklei/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.34/src/queue.rs /Users/pepijnvanderklei/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.34/src/task/singlethread.rs
+
+/Users/pepijnvanderklei/Desktop/Code/lollipop/example/target/wasm32-unknown-unknown/release/deps/libwasm_bindgen_futures-a1c7da6278b0c74f.rlib: /Users/pepijnvanderklei/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.34/src/lib.rs /Users/pepijnvanderklei/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.34/src/queue.rs /Users/pepijnvanderklei/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.34/src/task/singlethread.rs
+
+/Users/pepijnvanderklei/Desktop/Code/lollipop/example/target/wasm32-unknown-unknown/release/deps/wasm_bindgen_futures-a1c7da6278b0c74f.d: /Users/pepijnvanderklei/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.34/src/lib.rs /Users/pepijnvanderklei/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.34/src/queue.rs /Users/pepijnvanderklei/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.34/src/task/singlethread.rs
+
+/Users/pepijnvanderklei/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.34/src/lib.rs:
+/Users/pepijnvanderklei/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.34/src/queue.rs:
+/Users/pepijnvanderklei/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.34/src/task/singlethread.rs:
